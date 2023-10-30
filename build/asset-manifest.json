@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/estate-test/static/css/main.3cca2d79.css",
+    "main.js": "/estate-test/static/js/main.021eab74.js",
+    "static/js/787.9ae300a0.chunk.js": "/estate-test/static/js/787.9ae300a0.chunk.js",
+    "index.html": "/estate-test/index.html",
+    "main.3cca2d79.css.map": "/estate-test/static/css/main.3cca2d79.css.map",
+    "main.021eab74.js.map": "/estate-test/static/js/main.021eab74.js.map",
+    "787.9ae300a0.chunk.js.map": "/estate-test/static/js/787.9ae300a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cca2d79.css",
+    "static/js/main.021eab74.js"
+  ]
+}
